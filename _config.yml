@@ -20,7 +20,7 @@ title                    : "justpain02의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "justpain02"
-description              : "github 블로그 테스트"
+description              : "An amazing website."
 url                      : "justpain02.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "justpain02"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "github 블로그 테스트"
   location         : "Somewhere"
   email            :
   links:
