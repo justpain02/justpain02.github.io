@@ -112,6 +112,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
+  eventmachine (~> 1.2)
   jekyll-gist (~> 1.5)
   minimal-mistakes-jekyll!
   rake (>= 12.3.3)
