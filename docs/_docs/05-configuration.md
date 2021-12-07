@@ -988,7 +988,7 @@ Pages Front Matter defaults can be scoped like this:
 
 ```yaml
 defaults:
-  # _pages
+  # _posts
   - scope:
       path: ""
       type: pages

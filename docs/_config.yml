@@ -133,7 +133,7 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  - _posts
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -214,9 +214,9 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _posts
   - scope:
-      path: "_pages"
+      path: "_posts"
       type: pages
     values:
       layout: single
